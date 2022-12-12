@@ -1,17 +1,17 @@
 /** 
 
-Yg Mau Sv Nomerku?
+yo
 
-wa.me/6285875158363
+wa.me/212634376248
 
-Minimal Kasih Cr kalo mau reupload😡
+dont make me😡
 
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
-Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Base : achraf
+Recode : 𝓐𝓹𝓾𝓼𝓼𝓪 𝓫𝓸𝓽۞🥀
 
 **/
 require('./config')
